@@ -1,3 +1,5 @@
+//This is a C++ program that reads the accelerator pedal sensors (aka analog voltages), 
+//computes the desired Torque Demand value, and prints it to console, handling all safety rules and requirements.
 #include "mbed.h"
 #include "test.hpp"
 #include <algorithm>
