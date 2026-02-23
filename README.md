@@ -1,1 +1,1 @@
-All onboarding code is in main.cpp.
+(in main.cpp) C++ program that reads the accelerator pedal sensors (aka analog voltages), computes the desired Torque Demand value, and prints it to console, handling all safety rules and requirements. 
